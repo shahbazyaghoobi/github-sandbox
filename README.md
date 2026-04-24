@@ -1,6 +1,6 @@
 # github-sandbox
 # 📥 Download Files via Commit Message
-download-zip: https://www.youtube.com/watch?v=7G9Fjhe_NxM
+download: https://github.com/2dust/v2rayNG/releases/download/2.0.18/v2rayNG_2.0.18_universal.apk
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
 
 ---
