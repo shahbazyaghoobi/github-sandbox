@@ -1,6 +1,6 @@
 # github-sandbox
 # 📥 Download Files via Commit Message
-download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.7/mhrv-rs-android-arm64-v8a-v1.9.7.apk
+download: https://developer.arm.com/-/media/files/downloads/gnu-rm/10.3-2021.10/gcc-arm-none-eabi-10.3-2021.10-win32.exe?rev=29bb46cfa0434fbda93abb33c1d480e6&revision=29bb46cf-a043-4fbd-a93a-bb33c1d480e6&hash=7F9172DA90CDBE38413D44B2BAFDDCDC
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
 
 ---
