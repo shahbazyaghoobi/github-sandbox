@@ -1,6 +1,6 @@
 # github-sandbox
 # 📥 Download Files via Commit Message
-download: https://github.com/ajavadinezhad/zyrln/releases/download/v1.2.1/zyrln-1.2.1.apk
+download: https://huggingface.co/macoron/whisper.cpp/resolve/main/ggml-base.bin?download=true
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
 
 ---
